@@ -19,20 +19,6 @@ This project demonstrates a scalable ETL pipeline using **PySpark** in **Google 
 - ZIP download automation
 - Optional integration with AWS S3 or Airflow
 
-## 📁 Project Structure
-
-retail-etl-pipeline/
-│
-├── retail_etl_colab.ipynb
-├── sample_data/
-│   └── retail_sales_dataset.csv
-├── output/
-│       └── monthly_sales.csv
-│       └── age_gender_sales.csv
-│       └── top_products.csv
-├── README.md
-└── LICENSE
-
 
 ## 🧠 Skills Demonstrated
 

@@ -22,11 +22,17 @@ This project demonstrates a scalable ETL pipeline using **PySpark** in **Google 
 ## 📁 Project Structure
 
 retail-etl-pipeline/
-├── retail_etl_colab.ipynb # Main Colab notebook
-├── data/
-│ └── retail_sales_dataset.csv # Input sample
+│
+├── retail_etl_colab.ipynb
+├── sample_data/
+│   └── retail_sales_dataset.csv
 ├── output/
-└── README.md
+│       └── monthly_sales.csv
+│       └── age_gender_sales.csv
+│       └── top_products.csv
+├── README.md
+└── LICENSE
+
 
 ## 🧠 Skills Demonstrated
 
@@ -35,26 +41,12 @@ retail-etl-pipeline/
 - Grouping, Aggregation, and Ranking
 - Colab-based pipeline execution
 
-## 🧪 Sample Visual Output
-
-> ![Example Screenshot](./output_samples/summary_view.png)  ← *(Add your own!)*
-
----
-
-## 📥 Get Started
-
-1. Open the notebook in Colab
-2. Upload your `retail_sales_dataset.csv`
-3. Run step-by-step from extraction to ZIP download
-4. Analyze or present results
-
----
 
 ## 📢 Author
 
 **Abhinandhan Velagapudi**  
-M.S. in Applied Data Science  
-[LinkedIn Profile](https://www.linkedin.com/in/your-link)
+M.S. in Applied Data Science, Indiana University Indianapolis 
+[LinkedIn Profile](https://www.linkedin.com/in/abhinandhan-velagapudi-203b76200/)
 
 ---
 
